@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//test
 	}
+	//dungtrihp
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
